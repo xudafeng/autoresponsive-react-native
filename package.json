@@ -1,6 +1,6 @@
 {
   "name": "autoresponsive-react-native",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "auto responsive grid layout library",
   "keywords": [
     "react",
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "react-native": "^0.6.0",
-    "autoresponsive-react": "^1.0.0"
+    "autoresponsive-react": "=1.1.2"
   },
   "precommit": [
     "lint"
