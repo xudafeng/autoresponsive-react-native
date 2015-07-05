@@ -1,0 +1,43 @@
+{
+  "name": "autoresponsive-react-native",
+  "version": "1.0.0",
+  "description": "auto responsive grid layout library",
+  "keywords": [
+    "react",
+    "react-native",
+    "responsive",
+    "layout",
+    "layout component",
+    "ui component",
+    "ui",
+    "component"
+  ],
+  "main": "index.js",
+  "homepage": "http://xudafeng.github.io/autoresponsive-react",
+  "author": "xudafeng@126.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xudafeng/autoresponsive-react.git"
+  },
+  "scripts": {
+    "lint": "make lint",
+    "test": "make test"
+  },
+  "dependencies": {
+    "react-native": "^0.6.0",
+    "autoresponsive-react": "^1.0.0"
+  },
+  "precommit": [
+    "lint"
+  ],
+  "devDependencies": {
+    "react": "~0.13.1",
+    "eslint-plugin-react": "~2.5.2"
+  },
+  "startserver": [
+    {
+      "startserver-webpack": "*"
+    }
+  ],
+  "licenses": "MIT"
+}
