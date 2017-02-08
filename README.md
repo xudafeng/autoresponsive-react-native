@@ -1,5 +1,4 @@
-autoresponsive-react-native
-===========================
+# autoresponsive-react-native
 
 Auto responsive grid layout library for [ReactNative](https://facebook.github.io/react-native/).
 

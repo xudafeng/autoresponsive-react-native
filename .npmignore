@@ -8,3 +8,5 @@ Makefile
 coverage/
 *.html
 assets/
+*.sw*
+*.un~
