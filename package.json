@@ -13,19 +13,17 @@
     "component"
   ],
   "main": "index.js",
-  "homepage": "http://xudafeng.github.io/autoresponsive-react",
-  "author": "xudafeng@126.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xudafeng/autoresponsive-react.git"
+    "url": "https://github.com/xudafeng/autoresponsive-react-native.git"
   },
   "scripts": {
-    "lint": "make lint",
-    "test": "make test"
+    "lint": "eslint .",
+    "test": "mocha"
   },
   "dependencies": {
     "react-native": ">=0.19.0",
-    "autoresponsive-common": "~1.0.0"
+    "autoresponsive-core": "~1.0.0"
   },
   "precommit": [
     "lint"
@@ -34,10 +32,5 @@
     "react": "~0.13.1",
     "eslint-plugin-react": "~2.5.2"
   },
-  "startserver": [
-    {
-      "startserver-webpack": "*"
-    }
-  ],
   "licenses": "MIT"
 }
