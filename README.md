@@ -14,10 +14,6 @@ Live demo & docs: [xudafeng.github.io/autoresponsive-react](//xudafeng.github.io
 $ npm i autoresponsive-react-native --save
 ```
 
-## Screenshots
-
-<img src="//xudafeng.github.io/autoresponsive_react_native_sample/screenshot/ios.png" width="300"/> <img src="//xudafeng.github.io/autoresponsive_react_native_sample/screenshot/android.png" width="300"/>
-
 ## Related Edition
 
 - [React Edition](//github.com/xudafeng/autoresponsive-react)
