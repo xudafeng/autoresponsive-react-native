@@ -10,7 +10,7 @@ Live demo & docs: [xudafeng.github.io/autoresponsive-react](//xudafeng.github.io
 
 ## Installation
 
-``` bash
+```bash
 $ npm i autoresponsive-react-native --save
 ```
 
