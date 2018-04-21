@@ -31,7 +31,7 @@
   ],
   "devDependencies": {
     "eslint-plugin-react": "~2.5.2",
-    "git-contributor": "^1.0.5",
+    "git-contributor": "^1.0.7",
     "react": "~0.13.1"
   },
   "licenses": "MIT"
