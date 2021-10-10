@@ -18,21 +18,23 @@
     "url": "https://github.com/xudafeng/autoresponsive-react-native.git"
   },
   "scripts": {
+    "start": "expo start",
     "lint": "eslint .",
     "test": "mocha",
     "contributor": "git-contributor"
   },
   "dependencies": {
-    "react-native": ">=0.19.0",
-    "autoresponsive-core": "~1.0.0"
+    "autoresponsive-core": "~1.0.0",
+    "expo": "~41.0.1",
+    "react": "^16.14.0",
+    "react-native": "^0.66.0"
   },
   "precommit": [
     "lint"
   ],
   "devDependencies": {
     "eslint-plugin-react": "~2.5.2",
-    "git-contributor": "^1.0.7",
-    "react": "~0.13.1"
+    "git-contributor": "^1.0.7"
   },
   "licenses": "MIT"
 }
